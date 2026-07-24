@@ -1,0 +1,6 @@
+data/
+working_directory/
+docker/
+.vscode/
+DB/
+.env
